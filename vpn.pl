@@ -1,6 +1,8 @@
 #!/usr/bin/perl
 
 # loader for openvpn
+#
+# Author:  simon britton
 
 use strict;
 use warnings;
